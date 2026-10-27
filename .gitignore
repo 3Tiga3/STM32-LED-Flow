@@ -1,0 +1,10 @@
+# CLion / CMake 构建产物
+cmake-build-*/
+.idea/
+
+# 编译中间文件
+*.o
+*.d
+*.su
+# 其他构建目录
+build/
